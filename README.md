@@ -2,7 +2,7 @@
 This is a Youtube Clone I made using Reactjs, Material-UI and RapidAPI which made use of the Youtubev3 API. This website was also deployed using Netlify.
 
 
-Check out the completed project [here](https://forkify-samin.netlify.app/).
+Check out the completed project [here](https://saminytclone.netlify.app/).
 
 #### Features:
 - Users can search for their preferred Youtube Videos
@@ -13,7 +13,7 @@ Check out the completed project [here](https://forkify-samin.netlify.app/).
 
 #### Credit:
 - Inspired by JavaScript Mastery
-- Youtube Video: [(https://www.youtube.com/watch?v=FHTbsZEJspU&list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR&index=7&ab_channel=JavaScriptMastery)]
+- Youtube Video: [link](https://www.youtube.com/watchv=FHTbsZEJspU&list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR&index=7&ab_channel=JavaScriptMastery)
 
 Thanks for checking out the project:D
 
