@@ -1,3 +1,25 @@
+# Youtube-Clone
+This is a Youtube Clone I made using Reactjs, Material-UI and RapidAPI which made use of the Youtubev3 API. This website was also deployed using Netlify.
+
+
+Check out the completed project [here][(https://forkify-samin.netlify.app/)].
+
+#### Features:
+- Users can search for their preferred Youtube Videos
+- Users can watch Youtube videos on the site
+- Users can navigate the page by clicking on the suggested categories on the left Navbar
+- Users can visit content creator channels and can see statistics such as view and like count
+- Users are recommended videos when watching or surfing through the site
+
+#### Credit:
+- Inspired by JavaScript Mastery
+- Youtube Video: [link](https://www.youtube.com/watch?v=FHTbsZEJspU&list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR&index=7&ab_channel=JavaScriptMastery)
+
+Thanks for checking out the project:D
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
